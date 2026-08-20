@@ -3,10 +3,9 @@
 </div>
 
 <div align="center">
-  
-  [![Sergio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sergiofilhobr&bg_color=0d1117&color=FDD835&line=FDD835&point=FDD835&area=true&area_color=FDD835&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  <img src="https://streak-stats.demolab.com?user=sergiofilhobr&locale=pt-br&mode=weekly&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&background=0D1117&ring=FDD835&fire=FDD835&currStreakNum=FDD835&sideNums=FDD835&currStreakLabel=FDD835&sideLabels=FDD835&dates=FDD835&border=FDD835" height="156" alt="streak graph" /> <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=sergiofilhobr&theme=gruvbox&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph" />
+  <img src="https://streak-stats.demolab.com?user=sergiofilhobr&locale=pt-br&mode=weekly&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&background=0D1117&ring=FDD835&fire=FDD835&currStreakNum=FDD835&sideNums=FDD835&currStreakLabel=FDD835&sideLabels=FDD835&dates=FDD835&border=FDD835" height="156" alt="streak graph" />
 </div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/sergiofilhobr/sergiofilhobr/output/snake.svg" alt="Snake animation" />
+</div>
