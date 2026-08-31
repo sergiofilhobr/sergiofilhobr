@@ -26,9 +26,9 @@
   Golang · C#/.NET · AWS · Docker · React</p>
 
   <p>
-    <a href="https://oximoro-website.vercel.app"><img src="https://img.shields.io/badge/site-ox%C3%ADmoro%20tech-121216?style=for-the-badge" alt="Site" /></a>
-    <a href="https://oximoro-website.vercel.app/tree"><img src="https://img.shields.io/badge/links-%2Ftree-f2f2f5?style=for-the-badge&labelColor=121216" alt="Links" /></a>
-    <a href="https://www.instagram.com/oximoro.tech/"><img src="https://img.shields.io/badge/instagram-@oximoro.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://wa.me/5547992306897"><img src="https://img.shields.io/badge/whatsapp-chama-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+    <a href="https://oximoro-website.vercel.app" target="_blank"><img src="https://img.shields.io/badge/site-ox%C3%ADmoro%20tech-121216?style=for-the-badge" alt="Site" /></a>
+    <a href="https://oximoro-website.vercel.app/tree" target="_blank"><img src="https://img.shields.io/badge/links-%2Ftree-f2f2f5?style=for-the-badge&labelColor=121216" alt="Links" /></a>
+    <a href="https://www.instagram.com/oximoro.tech/" target="_blank"><img src="https://img.shields.io/badge/instagram-@oximoro.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://www.linkedin.com/in/sergiofilhobr/" target="_blank"><img src="https://img.shields.io/badge/linkedin-sergiofilhobr-0A66C2?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn" /></a>
   </p>
 </div>
