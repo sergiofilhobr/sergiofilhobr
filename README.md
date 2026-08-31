@@ -1,16 +1,6 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sergiofilhobr.sergiofilhobr&left_color=darkyellow&right_color=yellow" width="80" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sergiofilhobr.sergiofilhobr&left_color=black&right_color=gray" width="80" />
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sergiofilhobr&locale=pt-br&mode=weekly&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&background=0D1117&ring=FDD835&fire=FDD835&currStreakNum=FDD835&sideNums=FDD835&currStreakLabel=FDD835&sideLabels=FDD835&dates=FDD835&border=FDD835" height="156" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sergiofilhobr/sergiofilhobr/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 <div align="center">
   <picture>
@@ -29,6 +19,16 @@
     <a href="https://oximoro-website.vercel.app" target="_blank"><img src="https://img.shields.io/badge/site-ox%C3%ADmoro%20tech-121216?style=for-the-badge" alt="Site" /></a>
     <a href="https://oximoro-website.vercel.app/tree" target="_blank"><img src="https://img.shields.io/badge/links-%2Ftree-f2f2f5?style=for-the-badge&labelColor=121216" alt="Links" /></a>
     <a href="https://www.instagram.com/oximoro.tech/" target="_blank"><img src="https://img.shields.io/badge/instagram-@oximoro.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://www.linkedin.com/in/sergiofilhobr/" target="_blank"><img src="https://img.shields.io/badge/linkedin-sergiofilhobr-0A66C2?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.linkedin.com/in/sergiofilhobr/" target="_blank"><img src="https://img.shields.io/badge/linkedin-sergiofilhobr-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
   </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sergiofilhobr&locale=pt-br&mode=weekly&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&background=0D1117&ring=F2F2F5&fire=F2F2F5&currStreakNum=F2F2F5&sideNums=F2F2F5&currStreakLabel=F2F2F5&sideLabels=F2F2F5&dates=F2F2F5&border=F2F2F5" height="156" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sergiofilhobr/sergiofilhobr/output/snake.svg" alt="Snake animation" />
 </div>
