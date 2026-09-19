@@ -17,7 +17,7 @@
 
   <p>
     <a href="https://oximorotech.com" target="_blank"><img src="https://img.shields.io/badge/site-ox%C3%ADmoro%20tech-121216?style=for-the-badge" alt="Site" /></a>
-    <a href="https://oximorotech.com/tree" target="_blank"><img src="https://img.shields.io/badge/links-%2Ftree-f2f2f5?style=for-the-badge&labelColor=121216" alt="Links" /></a>
+    <a href="https://oximorotech.com/links" target="_blank"><img src="https://img.shields.io/badge/links-%2Ftree-f2f2f5?style=for-the-badge&labelColor=121216" alt="Links" /></a>
   </p>
 </div>
 
