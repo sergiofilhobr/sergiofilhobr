@@ -1,51 +1,78 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sergiofilhobr.sergiofilhobr&left_color=%23151417&right_color=%23F8D214" width="80" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-header-dark.svg">
+  <img src="assets/profile-header-light.svg" width="100%" alt="SERGIO.dev — Engenheiro de software. Do backend à interface. Itajaí, SC, Brasil.">
+</picture>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/oximoro-mesa-paper.png">
-    <img src="assets/oximoro-mesa-ink.png" width="360" alt="Oxímoro Tech — avatar em pixel art com notebook e caneca do gopher" />
-  </picture>
+<p>
+  <a href="https://oximorotech.com/developer"><strong>[ DEV / PORTFÓLIO ]</strong></a> &nbsp;
+  <a href="https://oximorotech.com/enterprise">[ EMPRESA / OXÍMORO ]</a> &nbsp;
+  <a href="https://oximorotech.com/cv">[ CURRÍCULO ]</a> &nbsp;
+  <a href="https://oximorotech.com/links">[ CONTATO ]</a>
+</p>
 
-  <h1>Sergio Filho</h1>
+## `01 / SOBRE MIM`
 
-  <p>Engenheiro de software na <a href="https://github.com/codexa-org">Codexa</a> · Fundador da Oxímoro Tech<br/>
-  Itajaí, SC · Brasil</p>
+<img align="right" src="assets/avatar.webp" width="160" alt="Avatar de Sergio em pixel art, com gorro preto e óculos amarelos.">
 
-  <p><strong>Transformando complexidade em simplicidade.</strong></p>
+Sou **Sergio Filho**, engenheiro de software pleno na [Codexa](https://github.com/codexa-org) e fundador da **Oxímoro Tech**, meu estúdio de software em Itajaí, SC.
 
-  <p>Do backend à interface: APIs, sistemas de gestão, ferramentas internas e páginas web.<br/>
-  Go · C#/.NET · PostgreSQL · AWS · Docker · React · TypeScript</p>
+Construo APIs, sistemas de gestão, ferramentas internas e páginas web. Meu foco está em **backends financeiros, integrações e arquitetura hexagonal**, com testes que permitem evoluir o software com segurança.
 
-  <p>
-    <a href="https://oximorotech.com/developer">Portfólio pessoal</a> ·
-    <a href="https://oximorotech.com/enterprise">Oxímoro Tech</a> ·
-    <a href="https://oximorotech.com/cv">Currículo</a> ·
-    <a href="https://oximorotech.com/links">Contato</a>
-  </p>
-</div>
+**Pegar o complexo e entregar o simples.**
 
-## O que construo
+<br clear="right" />
 
-Na Codexa, trabalho com backends financeiros em Go, serviços na AWS e arquitetura hexagonal. Minha experiência inclui conciliação bancária, integrações e automação de processos financeiros, com testes automatizados para sustentar a evolução dos sistemas.
+## `02 / EXPERIÊNCIA`
 
-Na **Oxímoro Tech**, meu estúdio de software, desenvolvo soluções para clientes e projetos próprios:
+| Período | Trabalho |
+| :--- | :--- |
+| **ago 2026 — atual** | **Fundador · Oxímoro Tech**<br>Consultoria de software, sistemas sob medida e sites para negócios. |
+| **dez 2024 — atual** | **Software Engineer Pleno · Codexa**<br>Backends em Go, sistemas financeiros e serviços na AWS. |
+| **mar 2022 — dez 2024** | **Software Engineer Júnior · SkyChart**<br>Conciliação bancária, cálculos de variação e automação de processos financeiros. |
 
-- **Sistemas sob medida:** gestão de clientes e pedidos, ferramentas internas e APIs.
-- **Sites para negócios:** barbearias, clínicas, arquitetura e outros serviços.
-- **Consultoria de software:** arquitetura, sistemas financeiros e integrações.
+## `03 / STACK`
 
-Entre os projetos da casa estão o **Contas**, para finanças pessoais com assistente de IA, e o **Rose**, para gestão de alfaiataria.
+**`~/sergio / stack.go`**
 
-[Conheça os projetos e serviços da Oxímoro](https://oximorotech.com/enterprise).
+```go
+package sergio
+
+var Stack = map[string][]string{
+    "linguagens": {"Go", "C#", "TypeScript", "SQL"},
+    "backend":    {".NET", "PostgreSQL", "SQL Server", "Redis", "Supabase"},
+    "frontend":   {"React", "Next.js", "Angular", "templ", "HTMX", "Tailwind"},
+    "infra":      {"AWS", "Docker", "Vercel"},
+}
+```
+
+## `04 / CONSTRUÍDO E ENTREGUE`
+
+| Projeto | O que resolve | Relação |
+| :--- | :--- | :--- |
+| **Contas** | Finanças pessoais: livro-caixa, cartões, relatórios e assistente com IA. | Projeto da casa |
+| **Rosé, a Tailor System** | Gestão de alfaiataria: clientes, pedidos, tamanhos e relatórios. | Projeto de cliente |
+| [**Base Cut**](https://basecut.com.br) | Site de barbearia com catálogo de serviços, agendamento e clube de corrida. | Projeto de cliente |
+
+[**[ VER CASES E SERVIÇOS DA OXÍMORO ]**](https://oximorotech.com/enterprise)
+
+## `05 / É SÓ CHAMAR`
+
+Hoje engenheiro na Codexa, consultor por fora. Precisa de uma página, de um sistema ou de ajuda com arquitetura?
+
+[**[ FALAR COMIGO ]**](https://oximorotech.com/developer#contact) &nbsp; [LinkedIn](https://www.linkedin.com/in/sergiofilhobr/) · [Currículo](https://oximorotech.com/cv) · [Oxímoro Tech](https://oximorotech.com/enterprise)
 
 ---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sergiofilhobr&locale=pt-br&mode=weekly&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&background=151417&ring=F8D214&fire=F8D214&currStreakNum=FDFBF8&sideNums=FDFBF8&currStreakLabel=F8D214&sideLabels=E0D9D1&dates=B6B1AB&stroke=2D2A2E&border=2D2A2E" height="156" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sergiofilhobr/sergiofilhobr/output/snake.svg" alt="Snake animation" />
-</div>
+<details>
+  <summary>Atividade no GitHub</summary>
+  <br>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=sergiofilhobr&locale=pt-br&mode=weekly&hide_border=false&border_radius=0&date_format=M%20j%5B,%20Y%5D&background=151417&ring=F8D214&fire=F8D214&currStreakNum=FDFBF8&sideNums=FDFBF8&currStreakLabel=F8D214&sideLabels=E0D9D1&dates=B6B1AB&stroke=2D2A2E&border=2D2A2E" height="156" alt="Sequência semanal de contribuições no GitHub.">
+  </p>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/sergiofilhobr/sergiofilhobr/output/snake.svg" alt="Animação de cobra percorrendo o gráfico de contribuições.">
+  </p>
+  <p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=sergiofilhobr.sergiofilhobr&left_color=%23151417&right_color=%23F8D214" alt="Visitas ao perfil.">
+  </p>
+</details>

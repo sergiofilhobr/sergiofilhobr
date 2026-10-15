@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">SERGIO.dev</title>
+  <desc id="desc">Engenheiro de software. Do backend à interface. Itajaí, SC, Brasil.</desc>
+  <rect width="960" height="240" fill="#FDFBF8"/>
+  <path d="M24 1H936M24 239H936" stroke="#151417" stroke-width="2"/>
+  <g font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace">
+    <text x="32" y="39" fill="#58545B" font-size="12" letter-spacing="2">SERGIO FILHO / SOFTWARE ENGINEER</text>
+    <text x="32" y="133" fill="#151417" font-size="80" font-weight="700" letter-spacing="-5">SERGIO<tspan fill="#151417">.dev</tspan></text>
+    <path d="M514 65V141" stroke="#F8D214" stroke-width="5"/>
+    <text x="34" y="182" fill="#151417" font-size="19">Do backend à interface.</text>
+    <text x="34" y="214" fill="#58545B" font-size="12" letter-spacing="1">GO · .NET · AWS</text>
+    <text x="925" y="214" fill="#58545B" font-size="12" text-anchor="end">ITAJAÍ, SC / BRASIL</text>
+  </g>
+  <rect x="800" y="29" width="127" height="26" fill="#F8D214"/>
+  <text x="863" y="47" fill="#151417" font-family="monospace" font-size="12" font-weight="700" text-anchor="middle">[ MODO DEV ]</text>
+</svg>
